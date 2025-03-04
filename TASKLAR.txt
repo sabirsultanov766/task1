@@ -1,12 +1,17 @@
 1. telebe balini daxil edir bu bala uygun, herf bali tapirsiniz.
 (Meselen: 91 -> A, 75 -> C)
+
 2. 2 eded daxil olunur, eger ededlerin her ikisi 2'ye galiqsiz bolunurse,
 cemini tapirsiniz, eks halda ekrana "daxil olunan ededler cut olmalidir!" yazisini yazdirirsiniz.
+
 3. maas ve kredit deyerleri daxil olur. Eger istifadecinin daxil etdiyi kredit deyeri,
 illik maasin 60%'den azdirsa, ekrana "Kredit goture bilmezsiniz!".
 eks halda "Kredit goture bilersiniz!" yazdirirsiniz.
+
 4. 2 reqemli bir eded daxil olunur, ededin onlugunun yoxsa,
 tekliyinin boyuk oldugunu ekrana yazdirirsiniz.
+
 5. duzbucaqlinin sahe ve perimetrini tapin.
+
 6. 2 variable daxil olunur value'larinin yerini deyishirsiniz.
 (Mes: a = 5; b = 10 => a =10; b = 5)
