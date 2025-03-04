@@ -12,6 +12,6 @@ eks halda "Kredit goture bilersiniz!" yazdirirsiniz.
 tekliyinin boyuk oldugunu ekrana yazdirirsiniz.
 
 5. duzbucaqlinin sahe ve perimetrini tapin.
-
+	 	
 6. 2 variable daxil olunur value'larinin yerini deyishirsiniz.
 (Mes: a = 5; b = 10 => a =10; b = 5)
